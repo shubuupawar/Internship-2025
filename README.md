@@ -109,7 +109,7 @@ python machine_downtime_analysis.py
 ### 6. File Structure
 ```
 ├── Machine Downtime.csv
-├── machine_downtime_analysis.py
+├── machine_downtime_analysis.ipynb
 ├── README.md
 ```
 
