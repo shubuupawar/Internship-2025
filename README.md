@@ -1,7 +1,6 @@
 # Machine Downtime Analysis
 Internship Project work 
 
-# Machine Downtime Analysis
 
 ## Overview
 This project involves analyzing machine downtime data using a predictive model to classify whether a machine will fail or not based on sensor data. The process includes data cleaning, exploratory data analysis, model training, evaluation, and presenting results in JSON format.
